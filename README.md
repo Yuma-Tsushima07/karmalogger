@@ -14,6 +14,9 @@ cd karmalogger
 python main.py
 ```
 
+## Tested
+I have tested it on VSC! 
+
 ## Warning
 I (Yuma-Tsushima) for any illegal activity, of my logger.
 Use this on your own VM or code editor, for your own use.
