@@ -4,6 +4,9 @@ A simple script to log your keys.
 ## THIS CODE IS FOR EDUCATIONAL PURPOSES!
 Yes, this code is only for educational purposes, please use this accordinally. I claim no responsibily for your doing. 
 
+## Requirements 
+* pynput 
+
 ## Download
 ```
 git clone https://github.com/Yuma-Tsushima07/karmalogger.git
